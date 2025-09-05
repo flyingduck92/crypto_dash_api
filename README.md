@@ -1,3 +1,6 @@
+# CoinGecko API
+URL: https://docs.coingecko.com/reference/coins-markets
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
