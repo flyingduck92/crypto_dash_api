@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Routes, Route } from 'react-router'
 import Header from './components/Header'
-import HomePage from './pages/Home'
+import HomePage from './pages/home'
 import AboutPage from './pages/about'
 import NotFoundPage from './pages/notfound'
 import CoinDetailsPage from './pages/coin-detail'
